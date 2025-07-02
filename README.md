@@ -2,7 +2,7 @@
 
 A web application designed to provide career guidance for students and graduates by tracking technology trends, suggesting relevant courses, and listing job opportunities.
 
-**Live Demo:** [**Click here to view the live application!**](https://your-github-username.github.io/trends-with-technology/)
+**Live Demo:** [**Click here to view the live application!**]( https://vikramvkm.github.io/Trends-with-technology/)
 *(Note: You will need to set up GitHub Pages for this link to work. It's easy!)*
 
 ---
